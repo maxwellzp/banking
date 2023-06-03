@@ -1,0 +1,2 @@
+dev@dev-machine:/home/developer/go-microservices-2/banking$ go mod init banking
+
