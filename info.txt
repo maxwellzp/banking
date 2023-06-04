@@ -12,3 +12,5 @@ dev@dev-machine:/home/developer/go-microservices-2/banking$ go get go.uber.org/z
 dev@dev-machine:/home/developer/go-microservices-2/banking$ go get github.com/jmoiron/sqlx
 go: added github.com/jmoiron/sqlx v1.3.5
 
+SERVER_ADDRESS=localhost SERVER_PORT=8282 go run main.go
+
