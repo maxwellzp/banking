@@ -1,2 +1,14 @@
 dev@dev-machine:/home/developer/go-microservices-2/banking$ go mod init banking
 
+dev@dev-machine:/home/developer/go-microservices-2/banking$ go get github.com/gorilla/mux
+go: added github.com/gorilla/mux v1.8.0
+
+dev@dev-machine:/home/developer/go-microservices-2/banking$ go get github.com/go-sql-driver/mysql
+go: added github.com/go-sql-driver/mysql v1.7.1
+
+https://github.com/uber-go/zap
+dev@dev-machine:/home/developer/go-microservices-2/banking$ go get go.uber.org/zap
+
+dev@dev-machine:/home/developer/go-microservices-2/banking$ go get github.com/jmoiron/sqlx
+go: added github.com/jmoiron/sqlx v1.3.5
+
