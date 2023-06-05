@@ -14,3 +14,12 @@ go: added github.com/jmoiron/sqlx v1.3.5
 
 SERVER_ADDRESS=localhost SERVER_PORT=8282 go run main.go
 
+export DB_USER=root
+export DB_PASSWD=q2715066q
+export DB_ADDR=localhost
+export DB_PORT=3306
+export DB_NAME=banking
+
+export SERVER_ADDRESS=localhost
+export SERVER_PORT=8000
+
